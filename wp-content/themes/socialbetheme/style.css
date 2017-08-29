@@ -1,0 +1,14 @@
+/*
+Theme Name:   Social Bet Theme Test Dev
+Description:  A Twenty Sixteen child theme
+Template:     twentysixteen
+Version:      1.0.0
+License:      GNU General Public License v2 or later
+License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+Text Domain:  twenty-sixteen-child
+*/
+
+.fancybutton a{text-decoration: none; padding: 10px; background: rgb(66, 181, 84); color: white; -webkit-border-radius: 5px;
+border-radius: 5px;}
+.alreadyvoted{background: rgb(205, 205, 205) !important}

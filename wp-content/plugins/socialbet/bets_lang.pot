@@ -1,0 +1,245 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-28 20:45+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: socialbet.php:17
+msgctxt "Post Type General Name"
+msgid "Bets"
+msgstr ""
+
+#: socialbet.php:18
+msgctxt "Post Type Singular Name"
+msgid "Bet"
+msgstr ""
+
+#: socialbet.php:19 socialbet.php:20
+msgid "Bets"
+msgstr ""
+
+#: socialbet.php:21
+msgid "Bets Archives"
+msgstr ""
+
+#: socialbet.php:22
+msgid "All Bets"
+msgstr ""
+
+#: socialbet.php:23
+msgid "Add New bet"
+msgstr ""
+
+#: socialbet.php:24
+msgid "Add New Bet"
+msgstr ""
+
+#: socialbet.php:25
+msgid "New bet"
+msgstr ""
+
+#: socialbet.php:26
+msgid "Edit bet"
+msgstr ""
+
+#: socialbet.php:27
+msgid "Update bet"
+msgstr ""
+
+#: socialbet.php:28
+msgid "View bet"
+msgstr ""
+
+#: socialbet.php:29
+msgid "View bets"
+msgstr ""
+
+#: socialbet.php:30
+msgid "Search Item"
+msgstr ""
+
+#: socialbet.php:31
+msgid "Not found"
+msgstr ""
+
+#: socialbet.php:32
+msgid "Not found in Trash"
+msgstr ""
+
+#: socialbet.php:33
+msgid "Featured Image"
+msgstr ""
+
+#: socialbet.php:34
+msgid "Set featured image"
+msgstr ""
+
+#: socialbet.php:35
+msgid "Remove featured image"
+msgstr ""
+
+#: socialbet.php:36
+msgid "Use as featured image"
+msgstr ""
+
+#: socialbet.php:37
+msgid "Insert into item"
+msgstr ""
+
+#: socialbet.php:38
+msgid "Uploaded to this item"
+msgstr ""
+
+#: socialbet.php:62
+msgid "Bet"
+msgstr ""
+
+#: socialbet.php:63
+msgid "bets for everyone"
+msgstr ""
+
+#: socialbet.php:93
+msgctxt "Taxonomy General Name"
+msgid "Bet Types"
+msgstr ""
+
+#: socialbet.php:94
+msgctxt "Taxonomy Singular Name"
+msgid "Bet Type"
+msgstr ""
+
+#: socialbet.php:95
+msgid "Bet Types"
+msgstr ""
+
+#: socialbet.php:96
+msgid "All Bet Types"
+msgstr ""
+
+#: socialbet.php:97
+msgid "New Bet Type"
+msgstr ""
+
+#: socialbet.php:98
+msgid "Add New Bet Type"
+msgstr ""
+
+#: socialbet.php:99
+msgid "Edit Bet Type"
+msgstr ""
+
+#: socialbet.php:100
+msgid "Update Bet Type"
+msgstr ""
+
+#: socialbet.php:101
+msgid "View Bet Type"
+msgstr ""
+
+#: socialbet.php:102 socialbet.php:151
+msgid "Separate items with commas"
+msgstr ""
+
+#: socialbet.php:103 socialbet.php:152
+msgid "Add or remove items"
+msgstr ""
+
+#: socialbet.php:104 socialbet.php:153
+msgid "Choose from the most used"
+msgstr ""
+
+#: socialbet.php:105
+msgid "Popular Bet Types"
+msgstr ""
+
+#: socialbet.php:106
+msgid "Search Bet Types"
+msgstr ""
+
+#: socialbet.php:107 socialbet.php:156
+msgid "Not Found"
+msgstr ""
+
+#: socialbet.php:108 socialbet.php:157
+msgid "No items"
+msgstr ""
+
+#: socialbet.php:109 socialbet.php:158
+msgid "Items list"
+msgstr ""
+
+#: socialbet.php:110 socialbet.php:159
+msgid "Items list navigation"
+msgstr ""
+
+#: socialbet.php:142
+msgctxt "Taxonomy General Name"
+msgid "Bet Status"
+msgstr ""
+
+#: socialbet.php:143
+msgctxt "Taxonomy Singular Name"
+msgid "Bet Status"
+msgstr ""
+
+#: socialbet.php:144
+msgid "Bet Statuses"
+msgstr ""
+
+#: socialbet.php:145
+msgid "All Bet Statuses"
+msgstr ""
+
+#: socialbet.php:146
+msgid "New Bet Status"
+msgstr ""
+
+#: socialbet.php:147
+msgid "Add New Bet Status"
+msgstr ""
+
+#: socialbet.php:148
+msgid "Edit Bet Status"
+msgstr ""
+
+#: socialbet.php:149
+msgid "Update Bet Status"
+msgstr ""
+
+#: socialbet.php:150
+msgid "View Bet Status"
+msgstr ""
+
+#: socialbet.php:154
+msgid "Popular Bet Statuses"
+msgstr ""
+
+#: socialbet.php:155
+msgid "Search Bet Status"
+msgstr ""
+
+#. Name of the plugin
+msgid "Social Bet"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://wordpress.org/plugins/hello-dolly/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Paul Fedorov"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://paulfedorov.ru"
+msgstr ""
